@@ -1,0 +1,4 @@
+keypress 1
+wait 1s
+keypress tab
+keypress 3

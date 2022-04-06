@@ -1,0 +1,5 @@
+// Warp Shoot \\
+keypress 1
+wait 1s
+keypress 2
+wait 1m

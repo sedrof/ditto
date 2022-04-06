@@ -1,0 +1,16 @@
+startditto 1
+wait 19s
+startditto 2
+wait 19s
+startditto 3
+wait 19s
+startditto 4
+wait 19s
+startditto 5
+wait 19s
+stopditto 1
+stopditto 2
+stopditto 3
+stopditto 4
+stopditto 5
+stopditto 0

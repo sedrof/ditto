@@ -1,0 +1,4 @@
+// Lets get some view
+keypress rightarrow
+keypress rightarrow
+wait 30s

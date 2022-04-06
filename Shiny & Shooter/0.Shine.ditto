@@ -1,0 +1,17 @@
+// Warp Reshine \\
+// Stop Shoot
+stopditto 1
+wait 1s
+// Reshine
+keypress 3
+keypress 3
+keypress 3
+keypress 3
+keypress 3
+keypress 3
+keypress 3
+wait 2s
+// Start Shoot
+startditto 1
+// Wait for next Reshine
+wait 5m

@@ -1,0 +1,17 @@
+// Select the mob
+keypress tab
+// Attack the mob
+startditto 1
+// Let it go to the mob
+wait 8s
+// Mobs should have been finish attack
+stopditto 1
+// Behead skill to get close to mob
+keypress 2
+wait 4s
+// Behead the mob
+keypress 2
+// Start picking geons for 2s
+startditto 2
+wait 2s
+stopditto 2

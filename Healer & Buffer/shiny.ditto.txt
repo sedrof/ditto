@@ -1,0 +1,24 @@
+// Start MI
+keypress 9
+keypress 9
+keypress 9
+wait 700
+// Start Lightning magic
+keypress 1
+keypress 1
+keypress1
+wait 26000
+keypress 4
+keypress 5
+keypress 5
+keypress 5
+wait 700
+keypress1
+keypress 2
+wait 500
+keypress 4
+keypress 4
+keypress 8
+keypress 8
+keypress 0
+keypress 0

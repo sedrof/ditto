@@ -1,0 +1,23 @@
+//north
+leftclick 682 221
+wait 2500
+//party
+leftclick 1205 629
+wait 2s
+//right
+leftclick 1227 391
+wait 2s
+leftclick 1205 629
+wait 2s
+//south
+leftclick 673 600
+wait 2s
+leftclick 1205 629
+wait 1500
+//left
+leftclick 138 353
+wait 500
+leftclick 387 264
+wait 1s
+leftclick 1205 629
+wait 2s

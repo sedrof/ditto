@@ -1,0 +1,7 @@
+// Select the mob
+keypress tab
+// Mobs should have been finish attack
+keypress 2
+wait 100
+keypress 3
+wait 900

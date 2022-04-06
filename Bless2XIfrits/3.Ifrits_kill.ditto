@@ -1,0 +1,27 @@
+// berserk
+keypress 0
+// let all come inside 
+wait 3s
+// spin 
+keypress 2
+wait 3s
+// get deathblown (half swing)
+keypress tab
+keypress 4
+wait 5100
+keypress tab
+keypress 4
+wait 5100
+keypress tab
+keypress 4
+wait 5100
+keypress tab
+keypress 4
+wait 5100
+keypress tab
+keypress 4
+wait 5s
+keypress tab
+keypress 2
+stopditto 0
+stopditto 3

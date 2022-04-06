@@ -1,0 +1,9 @@
+stopditto 2
+keypress tab
+startditto 1
+wait 7s
+stopditto 1
+startditto 2
+keypress 2
+wait 4s
+keypress 2

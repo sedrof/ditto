@@ -1,0 +1,11 @@
+// first bless
+startditto 3
+startditto 1
+wait 1s
+stopditto 1
+wait 19s
+// second bles
+startditto 2
+wait 1s
+stopditto 2
+wait 30m

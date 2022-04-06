@@ -1,0 +1,15 @@
+// Select mob
+keypress tab
+// Put shiny on it
+keypress 3
+wait 1s
+// Launch storm
+keypress 4
+leftclick 300 370
+wait 3s
+// Start MI
+keypress 5
+wait 1s
+// Start Lightning magic
+keypress 1
+stopditto 0

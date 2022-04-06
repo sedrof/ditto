@@ -1,0 +1,10 @@
+
+// Behead skill to get close to mob
+keypress 2
+wait 4s
+// Behead the mob
+keypress 2
+// Start picking geons for 2s
+startditto 2
+wait 2s
+stopditto 2

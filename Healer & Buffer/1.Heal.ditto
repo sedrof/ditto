@@ -1,0 +1,4 @@
+//Macro Heal
+keypress 1
+wait 2500
+keypress 2

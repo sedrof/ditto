@@ -1,0 +1,27 @@
+// Stop healing ditto
+stopditto 1
+// Wait, maybe healing
+wait 1s
+// Bless 
+keypress 3
+// Speed up
+wait 1s
+keypress 4
+wait 3s
+// Buffs
+keypress 5
+wait 2s
+keypress 6
+wait 2s
+keypress 7
+wait 2s
+keypress 8
+wait 2s
+keypress 9
+wait 2s
+keypress 0
+wait 2s
+// Start healing bot
+startditto 1
+// Lets wait until buffs ends and do again
+wait 29m
