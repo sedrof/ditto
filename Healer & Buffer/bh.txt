@@ -1,0 +1,23 @@
+//north
+rightclick 682 221
+wait 1
+//party
+rightclick 1205 629
+wait 1
+//right
+rightclick 1227 391
+wait 1
+rightclick 1205 629
+wait 1
+//south
+rightclick 673 600
+wait 1
+rightclick 1205 629
+wait 1
+//left
+rightclick 138 353
+wait 1
+rightclick 387 264
+wait 1
+rightclick 1205 629
+wait 1
